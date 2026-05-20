@@ -1,6 +1,6 @@
-project_id: 12a2c2cf-862c-49d6-85b9-42378a116832
-link_id: 11edfbaa-de6a-494a-9212-b4f565d1c7b2
-device_id: d65c2015-c579-4b29-ac70-344e95946315
+project_id: 50e48fe1-6ff0-4a15-a1c7-01a562ccd211
+link_id: 2171686d-3a4a-4023-9ea4-00942f44868e
+device_id: e5b24eed-6d23-48ac-9a19-540216a5697f
 server_url: http://localhost:8000
 mappings:
   - local: "**/*.ipynb"
@@ -22,4 +22,4 @@ exclude:
   - "**/*~"
   - "**/*.tmp"
   - "**/.autosave/**"
-refresh_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkOTc0YjEzNS1jZjdjLTQ1Y2MtYmFjOS0xY2I2OWVmMWUwM2QiLCJkZXZpY2VJZCI6ImQ2NWMyMDE1LWM1NzktNGIyOS1hYzcwLTM0NGU5NTk0NjMxNSIsInRva2VuVHlwZSI6ImRldmljZV9yZWZyZXNoIiwiaWF0IjoxNzc5MjA1Mjg2LCJleHAiOjE3ODE3OTcyODYsImp0aSI6IjZiOTVjYzlmLTc2ZTEtNDNmMC1hNTE0LWE5NmJiMTk2MjMyYyJ9.dTub0xT0dA9CmJ_vRrCp-NVqjtExypx0n_Zhdl5eF3c"
+refresh_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NTE4NTNmMC1jODFjLTRkOWUtYWIyOC0wN2NmMDliMTBjNDgiLCJkZXZpY2VJZCI6ImU1YjI0ZWVkLTZkMjMtNDhhYy05YTE5LTU0MDIxNmE1Njk3ZiIsInRva2VuVHlwZSI6ImRldmljZV9yZWZyZXNoIiwiaWF0IjoxNzc5Mjg3NTY0LCJleHAiOjE3ODE4Nzk1NjQsImp0aSI6Ijc1NjJlNjlkLTI4MzQtNDZkNi1hMTIzLTY3ODdjZGE3ZDY5OSJ9.TQV4Zhinyq1YOCSbtOOl8-3ORLbl3lG6QtpcuCu2NBI"
