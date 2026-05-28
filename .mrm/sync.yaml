@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 project_id: 17b5941a-cf8d-4ac5-abe3-17e9b99b9e61
 link_id: a5418181-ba2f-46d0-85c6-ee9abb437481
 device_id: 7ecd6fb1-e0f0-4e6a-a827-49e29c4cd61e
@@ -12,6 +13,16 @@ mappings:
   - local: "data/**"
     server: "data/"
     direction: both
+=======
+project_id: a8ae7aa3-9760-4e07-8bdc-fe3964ece647
+link_id: 999ff8cd-65d5-42bd-a214-236bd7e81154
+device_id: d65c2015-c579-4b29-ac70-344e95946315
+server_url: http://localhost:8000
+mappings:
+  - local: "**/*.ipynb"
+    server: "project notebooks/"
+    direction: both
+>>>>>>> b4efde1c850c49da6105dbe5b8543ff04a1aa74c
   - local: "**/*.{csv,parquet,xlsx,xls,json,tsv,txt}"
     server: "data/"
     direction: both
@@ -28,4 +39,7 @@ exclude:
   - "**/*~"
   - "**/*.tmp"
   - "**/.autosave/**"
+<<<<<<< HEAD
 refresh_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhODRkMzNjZi00MzdlLTQ4MmUtODAyNi1jNzg1NzgzZDIwZmUiLCJkZXZpY2VJZCI6IjdlY2Q2ZmIxLWUwZjAtNGU2YS1hODI3LTQ5ZTI5YzRjZDYxZSIsInRva2VuVHlwZSI6ImRldmljZV9yZWZyZXNoIiwiaWF0IjoxNzc5OTQzNzM0LCJleHAiOjE3ODI1MzU3MzQsImp0aSI6Ijc5ZjdkY2RkLTk5NjgtNDY1YS04YzM0LTgxMTU1ZmE2NTg2ZiJ9.wgZl3X7lVbsjpxvv4iwqxd1YetYjH9FjlWUMyRHAsMw"
+=======
+>>>>>>> b4efde1c850c49da6105dbe5b8543ff04a1aa74c
